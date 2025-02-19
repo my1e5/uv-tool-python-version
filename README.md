@@ -3,6 +3,7 @@
 ```
 uv -v tool install git+https://github.com/my1e5/uv-tool-python-version
 ```
+or `uvx git+...` or `uv tool run git+...`
 
 ## Logs
 
